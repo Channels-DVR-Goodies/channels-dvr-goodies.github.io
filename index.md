@@ -1,12 +1,12 @@
-# Paul's (unoffical) goodies for Channels DVR
+# Paul's (unofficial) goodies for Channels DVR
 
-  > **Your attention please:** these goodies are not provided by, and in no way are endorsed or supported by Fancy Bits LLC,
-  > the developers of the Channels DVR. If any part of these goodies don't work for you (or later stops working), that's
-  > my obligation and perogative to fix, not theirs.
+ > **Your attention please:** these goodies are not provided by, and in no way are endorsed or supported by Fancy Bits LLC,
+ > the developers of the Channels DVR. If any part of these goodies don't work for you (or later stops working), that's
+ > my obligation and perogative to fix, not theirs.
 
 If these goodies start to become a support burden from them, they would be well within their rights to ask me to 'cease and decist',
 which I will gladly do. I value the work they put into Channels DVR, and don't want to do anything that might get in the way of them
-continuing to put out an excellent product that only seems to improve over time.
+continuing to improve an already-excellent product.
 
 ### [DVR2Plex](/DVR2Plex)
 
