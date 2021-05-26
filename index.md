@@ -41,8 +41,8 @@ Converts EDL file (like Channels DVR emits) to a chapters file for mkvmerge
 This is a hobby project that I do in what litte spare time I have. There is no quality assurance, technical support or customer
 service department. There is no billing department either, please keep these things in mind.
 
-There's no contract, warranty, nor guarantee of fitness for any purpose. You assume all liability when choosing to use this
-software. Batteries not included.
+There's no contract, warranty, nor guarantee of fitness for any purpose. You assume all liability should you choose to use this
+software. Your mileage may vary. Batteries not included.
 
 I'm making these things available in case you have a similar itch to scratch. While I'm helpful by nature, it's not reasonable to
 expect me to teach you how to write code, or debug your code for you.
