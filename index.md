@@ -1,12 +1,19 @@
 # Paul's (unofficial) goodies for the Channels DVR
 
- > **Your attention please:** these goodies are not provided by, and in no way are endorsed or supported by Fancy Bits LLC,
- > the developers of the Channels DVR. If any part of these goodies don't work for you (or later stops working), that's
- > my obligation and perogative to fix, not theirs.
+ > **Your attention please:** these goodies are not provided by, and are in no way endorsed or supported by Fancy Bits LLC, the
+ > developers of the Channels DVR. If any part of these goodies don't work for you, that's my obligation to fix, not theirs.
 
-If these goodies start to become a support burden from them, they would be well within their rights to ask me to 'cease and decist',
-which I will gladly do. I value the work they put into Channels DVR, and don't want to do anything that might get in the way of them
-continuing to improve an already-excellent product.
+If these goodies start to become a support burden from them, they would be well within their rights to ask me to 'cease and desist'.
+Channels DVR is valuable to me, as is the work they put into improving it. I don't want to do anything that could get in the way
+of that continuing.
+
+ > **Note:** Because of past unpleasent experiences I've had first-hand, I wrote [A Plea: Please be Reasonable](https://channels-dvr-goodies.github.io/Please-Be-Reasonable).
+ > If you think I'm somehow treating you unfairly, or that 'giving away free stuff' means I owe you something personally, please read (and
+ > understand) that page first. _Only then_ contact me to complain. I reserve the right to point you to that page in response. Life
+ > is simply too short.
+ > 
+ > To be clear, the vast majority of you are reasonable, even appreciative. I get considerable satisfaction from sharing something with
+ > you that you find useful. Sadly seems like a few burdened with unreasonable attitudes can sour that satisfaction pretty quickly. 
 
 ## [DVR2Plex](https://channels-dvr-goodies.github.io/DVR2Plex)
 
@@ -34,3 +41,7 @@ Postprocessor for M3U files. also includes the [mungeFCC](https://channels-dvr-g
 ## [edl2mkvchapters](https://channels-dvr-goodies.github.io/edl2mkvchapters)
 
 Converts EDL file (like Channels DVR emits) to a chapters file for mkvmerge
+
+## [avcp](https://channels-dvr-goodies.github.io/avcp)
+
+Intelligent copying of A/V files, to prevent a lower-quality A/V file from being copied over a higher-quality one. [work-in-progress]
