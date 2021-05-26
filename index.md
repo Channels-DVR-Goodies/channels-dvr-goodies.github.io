@@ -30,8 +30,10 @@ processing odd-numbered episodes of your favorite Elbonian soap opera.
 It saddens me to have to state these things, but past experience has shown that it's necessary. The goodies provided here are
 working for me; but I can't hope to do extensive testing of every possible configuration people could concieve of.
 
-In other words, please be reasonable. If this stuff helps you, that's great, it makes me happy to think I'm helping someone.
-If it doesn't, I'd like to know, particularly if it's something other people will run into. But I can'r guarantee it's something
-I can fix, or even that I can spare the time to do it anytime soon.
+In other words, please be reasonable.
+
+If this stuff helps you, that's great, it makes me happy to think I'm helping someone. If it doesn't, I'd like to know,
+particularly if it's something other people will run into. But I can't guarantee it's something I can fix, or even that
+I can spare the time to do it anytime soon.
 
 **One last thing:** don't pass this off as your work. And yes, sadly it's necessary to state that.
