@@ -8,13 +8,13 @@ If these goodies start to become a support burden from them, they would be well 
 which I will gladly do. I value the work they put into Channels DVR, and don't want to do anything that might get in the way of them
 continuing to improve an already-excellent product.
 
-### [DVR2Plex](/DVR2Plex)
+### [DVR2Plex](https://channels-dvr-goodies.github.io/DVR2Plex)
 
-### [cuckoo](/cuckoo)
+### [cuckoo](https://channels-dvr-goodies.github.io/cuckoo)
 
 An executable that impersonates another, so that additional executables can also be called whenever it is invoked.
 
-### [json2shell](/DVR2Plex)
+### [json2shell](https://channels-dvr-goodies.github.io/DVR2Plex)
 
 Converts a simple JSON file to text that can be 'eval'd by bash to set matching environment variables.
 
@@ -27,11 +27,11 @@ equivalent shell variable definitions, ready to be used in an 'eval' statement i
 
 There are some example scripts provided.
 
-### [mungeM3U](/mungeM3U)
+### [mungeM3U](https://channels-dvr-goodies.github.io/mungeM3U)
 
-Postprocessor for M3U files. also includes the [mungeFCC](/mungeFCC) tool
+Postprocessor for M3U files. also includes the [mungeFCC](https://channels-dvr-goodies.github.io/mungeFCC) tool
 
-### [edl2mkvchapters](/edl2mkvchapters)
+### [edl2mkvchapters](https://channels-dvr-goodies.github.io/edl2mkvchapters)
 
 Converts EDL file (like Channels DVR emits) to a chapters file for mkvmerge
 
