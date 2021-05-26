@@ -8,7 +8,32 @@ If these goodies start to become a support burden from them, they would be well 
 which I will gladly do. I value the work they put into Channels DVR, and don't want to do anything that might get in the way of them
 continuing to put out an excellent product that only seems to improve over time.
 
-## [DVR2Plex](/DVR2Plex)
+### [DVR2Plex](/DVR2Plex)
+
+### [cuckoo](/cuckoo)
+
+An executable that impersonates another, so that additional executables can also be called whenever it is invoked.
+
+### [json2shell](/DVR2Plex)
+
+Converts a simple JSON file to text that can be 'eval'd by bash to set matching environment variables.
+
+Channels DVR can generate a JSON file alongside the recording if configured to do so. This JSON file contains
+some of the guide data about the recording such as whether it's a movie, season and episode number, a short
+description, original broadcast date, etc.
+
+This goodie reads a JSON file in the style of the MCEBuddy file that Channels DVR creates, and outputs the
+equivalent shell variable definitions, ready to be used in an 'eval' statement in your very own script.
+
+There are some example scripts provided.
+
+### [mungeM3U](/mungeM3U)
+
+Postprocessor for M3U files. also includes the [mungeFCC](/mungeFCC) tool
+
+### [edl2mkvchapters](/edl2mkvchapters)
+
+Converts EDL file (like Channels DVR emits) to a chapters file for mkvmerge
 
 
 ## Please Be Reasonable
