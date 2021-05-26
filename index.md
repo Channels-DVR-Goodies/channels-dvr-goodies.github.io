@@ -17,13 +17,11 @@ There's no contract, warranty, nor guarantee of fitness for any purpose. You ass
 software. Batteries not included.
 
 I'm making these things available in case you have a similar itch to scratch. While I'm helpful by nature, it's not reasonable to
-expect me to teach you how to write code, or debug code you wrote for you. While I'm interested to hear of ideas for features or
-improvements, I'm not required to agree with you, or obliged to implement them.
-
-I'm open to bounties, but my spare time is scarce, and so is valuable to me. Don't expect me to give up several weekends for
-the cost of a latte. Remember that I've provided the source code with few strings attached - feel free to make changes and
-submit pull requests, or find someone with decent programming skills if you don't. I cannot guarantee that every pull request
-will be accepted, though - best to check with me first, or risk disappointment later.
+expect me to teach you how to write code, or debug your code for you. While I'm interested to hear of ideas for features or
+improvements, I'm not required to agree with you, or obliged to implement them. Remember that I've provided the source code
+with few strings attached - feel free to make changes and submit pull requests, or find someone with decent programming skills
+if you don't. I cannot guarantee that every pull request will be accepted, though - best to check with me first, or risk 
+disappointment later.
 
 Be aware that if you can't describe a problem clearly enough that I can reproduce it, I can't help you. Nor do I have the time or
 resources to recreate your 1.2 petabyte NAS running an ancient version of FreeBSD on ZFS, where one of my tools only fails when
