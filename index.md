@@ -36,7 +36,7 @@ Postprocessor for M3U files. also includes the [mungeFCC](https://channels-dvr-g
 Converts EDL file (like Channels DVR emits) to a chapters file for mkvmerge
 
 
-## Please Be Reasonable
+## A Plea: Please Be Reasonable
 
 This is a hobby project that I do in what litte spare time I have. There is no quality assurance, technical support or customer
 service department. There is no billing department either, please keep these things in mind.
