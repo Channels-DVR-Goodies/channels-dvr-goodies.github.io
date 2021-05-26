@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# Paul's (unoffical) goodies for Channels DVR
 
-You can use the [editor on GitHub](https://github.com/Channels-DVR-Goodies/Channels-DVR-Goodies/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**Your attention please:** these goodies are not provided by, and in no way are endorsed or supported by Fancy Bits LLC,
+the developers of the Channels DVR. If any part of these goodies don't working for you (or later stops working), that's
+my obligation and perogative to fix, not theirs.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If these goodies start to become a support burden from them, they would be well within their rights to ask me to 'cease and decist',
+which I will gladly do. I value the work they put into Channels DVR, and don't want to do anything that might get in the way of them
+continuing to put out an excellent product that only seems to improve over time.
 
-### Markdown
+## Please Be Reasonable
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is a hobby project that I do in what litte spare time I have. There is no quality assurance, technical support or customer
+service department. There is no billing department either, please keep these things in mind.
 
-```markdown
-Syntax highlighted code block
+There's no contract, warranty, nor guarantee of fitness for any purpose. You assume all liability when choosing to use this
+software. Batteries not included.
 
-# Header 1
-## Header 2
-### Header 3
+I'm making these things available in case you have a similar itch to scratch. While I'm helpful by nature, it's not reasonable to
+expect me to teach you how to write code, or debug code you wrote for you. While I'm interested to hear of ideas for features or
+improvements, I'm not required to agree with you, or obliged to implement them.
 
-- Bulleted
-- List
+I'm open to bounties, but my spare time is scarce, and so is valuable to me. Don't expect me to give up several weekends for
+the cost of a latte. Remember that I've provided the source code with few strings attached - feel free to make changes and
+submit pull requests, or find someone with decent programming skills if you don't. I cannot guarantee that every pull request
+will be accepted, though - best to check with me first, or risk disappointment later.
 
-1. Numbered
-2. List
+Be aware that if you can't describe a problem clearly enough that I can reproduce it, I can't help you. Nor do I have the time or
+resources to recreate your 1.2 petabyte NAS running an ancient version of FreeBSD on ZFS, where one of my tools only fails when
+processing odd-numbered episodes of your favorite Elbonian soap opera.
 
-**Bold** and _Italic_ and `Code` text
+It saddens me to have to state these things, but past experience has shown that it's necessary. The goodies provided here are
+working for me; but I can't hope to do extensive testing of every possible configuration people could concieve of.
 
-[Link](url) and ![Image](src)
-```
+In other words, please be reasonable. If this stuff helps you, that's great, it makes me happy to think I'm helping someone.
+If it doesn't, I'd like to know, particularly if it's something other people will run into. But I can'r guarantee it's something
+I can fix, or even that I can spare the time to do it anytime soon.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Channels-DVR-Goodies/Channels-DVR-Goodies/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**One last thing:** don't pass this off as your work. And yes, sadly it's necessary to state that.
