@@ -44,7 +44,7 @@ Converts EDL file (like Channels DVR emits) to a chapters file for use with mkvm
 
 Intelligent copying of A/V files, to prevent a lower-quality A/V file from being copied over a higher-quality one. [work-in-progress]
 
-
+---
  > **Note:** Because of past unpleasent experiences I've had first-hand, I wrote [A Plea: Please be Reasonable](https://channels-dvr-goodies.github.io/Please-Be-Reasonable).
  > If you think I'm somehow treating you unfairly, or that 'giving away free stuff' means I owe you something personally, please read (and
  > understand) that page first. _Only then_ contact me to complain. I reserve the right to point you to that page in response. Life
