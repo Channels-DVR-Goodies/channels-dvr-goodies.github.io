@@ -19,7 +19,7 @@ your 'Marvel's Agents of S.H.I.E.L.D.' directory.
 An executable that impersonates another, so that additional executables can also be called whenever it is invoked.
 Particularly useful for doing additional post-processing, by impersonating Channel DVR's private comskip executable.
 
-## [json2shell](https://channels-dvr-goodies.github.io/DVR2Plex)
+## [json2shell](https://channels-dvr-goodies.github.io/json2shell)
 
 Converts a simple JSON file to text that can be 'eval'd by bash to set matching environment variables.
 
@@ -34,11 +34,16 @@ There are some example scripts provided.
 
 ## [mungeM3U](https://channels-dvr-goodies.github.io/mungeM3U)
 
-Postprocessor for M3U files. also includes the [mungeFCC](https://channels-dvr-goodies.github.io/mungeFCC) tool
+Postprocessor for M3U files. Does a bunch of string matching to take a typical M3U file and deduce a bunch of 
+metadata derived from the channel name and group name. A function is then called to filter down to the actual set
+you're after. There's a single function that decides which channels to include. For example, Canadian and UK 
+English-language channels, except sports, religious and shopping channels.
+
+also includes the [mungeFCC](https://channels-dvr-goodies.github.io/mungeFCC) tool
 
 ## [edl2mkvchapters](https://channels-dvr-goodies.github.io/edl2mkvchapters)
 
-Converts EDL file (like Channels DVR emits) to a chapters file for use with mkvmerge.
+Converts an EDL file (like the ones Channels DVR emits) to a chapters file for use with mkvmerge.
 
 ## [avcp](https://channels-dvr-goodies.github.io/avcp)
 
