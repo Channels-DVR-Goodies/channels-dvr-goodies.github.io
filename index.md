@@ -3,9 +3,11 @@
  > **Your attention please:** these goodies are not provided by, and are in no way endorsed or supported by Fancy Bits LLC, the
  > developers of the Channels DVR. If any part of these goodies don't work for you, that's my obligation to fix, not theirs.
 
-If these goodies start to become a support burden from them, they would be well within their rights to ask me to 'cease and desist'.
-Channels DVR is valuable to me, as is the work they put into improving it. I don't want to do anything that could get in the way
-of that continuing.
+If any of these goodies start to become a support burden for the good folks at Fancy Bits LLC, they would be well within their
+rights to ask me to 'cease and desist'.
+
+The Channels DVR software is valuable to me, as is the work they put into improving it. I don't want to do anything that could
+get in the way of that continuing.
 
 ## [DVR2Plex](https://channels-dvr-goodies.github.io/DVR2Plex)
 
